@@ -1,0 +1,13 @@
+{
+  "name": "withJS",
+  "version": "0.0.1",
+  "description": "withJS",
+  "main": "index.js",
+  "scripts": {
+    "todo": "pnpm --filter todo run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "rachel",
+  "license": "ISC"
+}
